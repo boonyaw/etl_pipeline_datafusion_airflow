@@ -25,6 +25,12 @@ This project performs the following key tasks:
 - Automate the complete data pipeline using **Apache Airflow** via **Google Cloud Composer**.
 
 ---
+## 🧱 Architecture Diagram
+
+> 
+![ETL Architecture](./images/architecture.drawio.png)
+
+---
 ## 🚀 How to Run This Project (Simplified Steps)
 
 ### 1. Set Up GCP Services
